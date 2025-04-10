@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @drw2side
-- 🌱 I’m currently learning Java
-- 💞️ I’m currently stduying CS in Bilkent University
-- 😄 Pronouns: He/Him
+
